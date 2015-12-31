@@ -1,9 +1,6 @@
-Origin: Dan Saba's Repository
-Label: Dan Saba's Repository
-Suite: stable
-Version: 1.0
-Codename: Grandfather-Paradox
-Architectures: iphoneos-arm
-Components: main
-Description: Dan Saba's Repository
-MD5Sum:
+dd6d54018899dc96f96e8fcdd05dfdda 497 Packages
+3998f5d80c1e99eafa0bf5c60803f3a7 333 Packages.gz
+c1e7aa39d61dba2453417f7cfea16b5c 384 Packages.bz2
+a77162b70720e0934d5101236da9c749 497 Packages
+62aefe932d5e591de85bb323e7453907 333 Packages.gz
+c1e7aa39d61dba2453417f7cfea16b5c 384 Packages.bz2
