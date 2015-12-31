@@ -1,6 +1,11 @@
-dd6d54018899dc96f96e8fcdd05dfdda 497 Packages
-3998f5d80c1e99eafa0bf5c60803f3a7 333 Packages.gz
-c1e7aa39d61dba2453417f7cfea16b5c 384 Packages.bz2
-a77162b70720e0934d5101236da9c749 497 Packages
-62aefe932d5e591de85bb323e7453907 333 Packages.gz
-c1e7aa39d61dba2453417f7cfea16b5c 384 Packages.bz2
+Origin: Dan Saba's Repo
+Label: Dan Saba's Repo
+Suite: stable
+Version: 1.0
+Codename: Dan Saba's Repo
+Architecture: iphoneos-arm
+Components: main
+Description: Dan Saba's Repo
+MD5Sum: bf71552a39dd297aa8f2fe91d3763e6c 899 Packages
+43aa56aacf48d18209d76c8467a22ff2 463 Packages.gz
+b4a0f708ee439f9209885446ff66a3bf 537 Packages.bz2

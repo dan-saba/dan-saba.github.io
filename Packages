@@ -1,13 +1,27 @@
+Package: com.dpkgdan.batteryhider
+Version: 1.0.1-18
+Section: Tweaks
+Maintainer: Dan Saba
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb//com.dpkgdan.batteryhider_1.0.1-18_iphoneos-arm.deb
+Size: 3376
+Installed-Size: 88
+MD5sum: 626364bc2e681507914f421d9691d5d6
+Description: A Mobile Substrate extension to hide the battery icon in the status bar.
+name: Battery Hider
+author: Dan Saba
+
 Package: com.timedaemon.powerinformer
-Version: 1.0.2-1
+Version: 1.0.2-2
 Section: Tweaks
 Maintainer: Grandfather Paradox
 Depends: mobilesubstrate, preferenceloader, firmware (>= 5)
 Architecture: iphoneos-arm
-Filename: deb//com.timedaemon.powerinformer_1.0.2-1_iphoneos-arm.deb
-Size: 29710
+Filename: deb//com.timedaemon.powerinformer_1.0.2-2_iphoneos-arm.deb
+Size: 29726
 Installed-Size: 208
-MD5sum: 57ba60673c3186525e12f509c56d93ce
+MD5sum: c57bf3e875e81a780b145b1c8a27df79
 Description: Power Informer allows you to receive battery level alerts at any battery level and at any increments.
 name: Power Informer
 author: Grandfather Paradox
