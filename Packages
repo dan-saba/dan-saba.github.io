@@ -34,10 +34,10 @@ Maintainer: Dan Saba
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb//com.dpkgdan.rotationhider_1.0.1-2_iphoneos-arm.deb
-Size: 3056
-Installed-Size: 72
-MD5sum: addf0bb2731683673ec33bc8a5c6cbd5
-Description: A Mobile Substrate extension to hide the rotation indicator in the status bar.
+Size: 3038
+Installed-Size: 88
+MD5sum: 1940b2775b72fe489b75df80a41687a9
+Description: Hides the rotation lock indicator in the status bar
 name: Rotation Hider
 author: Dan Saba
 
