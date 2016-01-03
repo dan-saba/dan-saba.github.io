@@ -9,20 +9,77 @@ Size: 3376
 Installed-Size: 88
 MD5sum: 626364bc2e681507914f421d9691d5d6
 Description: A Mobile Substrate extension to hide the battery icon in the status bar.
-name: Battery Hider
 author: Dan Saba
+name: Battery Hider
+
+Package: com.dpkgdan.powertap
+Version: 1.1.3-3
+Section: Tweaks
+Maintainer: Dan Saba
+Depends: firmware (>= 7.1), mobilesubstrate, preferenceloader
+Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot
+Architecture: iphoneos-arm
+Filename: deb//com.dpkgdan.powertap_1.1.3-3_iphoneos-arm.deb
+Size: 74826
+Installed-Size: 296
+MD5sum: e7a6ab01e45ce04e956bc39e86c259af
+Description: Power Tap allows you to toggle the power down bar through different settings, such as "reboot," "respring," and "safe mode." Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak "Slide to Reboot."
+author: Dan Saba
+name: Power Tap
+
+Package: com.dpkgdan.rotationhider
+Version: 1.0.1-2
+Section: Tweaks
+Maintainer: Dan Saba
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb//com.dpkgdan.rotationhider_1.0.1-2_iphoneos-arm.deb
+Size: 3056
+Installed-Size: 72
+MD5sum: addf0bb2731683673ec33bc8a5c6cbd5
+Description: A Mobile Substrate extension to hide the rotation indicator in the status bar.
+author: Dan Saba
+name: Rotation Hider
+
+Package: com.timedaemon.alarmhider
+Version: 1.0-1
+Section: Tweaks
+Maintainer: Dan Saba
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb//com.timedaemon.alarmhider_1.0-1_iphoneos-arm.deb
+Size: 3022
+Installed-Size: 88
+MD5sum: a2b863b9b64a4130fd381ca074af2e2d
+Description: Hides the alarm icon from the status bar.
+author: Dan Saba
+name: Alarm Hider
 
 Package: com.timedaemon.powerinformer
-Version: 1.0.2-2
+Version: 1.0.2-3
 Section: Tweaks
-Maintainer: Grandfather Paradox
+Maintainer: Dan Saba
 Depends: mobilesubstrate, preferenceloader, firmware (>= 5)
 Architecture: iphoneos-arm
-Filename: deb//com.timedaemon.powerinformer_1.0.2-2_iphoneos-arm.deb
-Size: 29726
+Filename: deb//com.timedaemon.powerinformer_1.0.2-3_iphoneos-arm.deb
+Size: 29704
 Installed-Size: 208
-MD5sum: c57bf3e875e81a780b145b1c8a27df79
+MD5sum: 9c9bcd703f1c14920620593baf2b370f
 Description: Power Informer allows you to receive battery level alerts at any battery level and at any increments.
+author: Dan Saba
 name: Power Informer
-author: Grandfather Paradox
+
+Package: com.timedaemon.slicesactivatortoggle
+Version: 1.0-12
+Section: Tweaks
+Maintainer: Dan Saba
+Depends: mobilesubstrate, libactivator, org.thebigboss.slices
+Architecture: iphoneos-arm
+Filename: deb//com.timedaemon.slicesactivatortoggle_1.0-12_iphoneos-arm.deb
+Size: 10588
+Installed-Size: 92
+MD5sum: 86cfeadea6be41fa987f2d2a1f1dc0d9
+Description: An Activator toggle for Slices.
+author: Dan Saba
+name: Slices Activator Toggle
 
