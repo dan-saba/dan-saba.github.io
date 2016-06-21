@@ -55,18 +55,19 @@ Description: Hides the alarm icon from the status bar.
 name: Alarm Hider
 author: Dan Saba
 
-Package: com.timedaemon.grindrenhancement
-Version: 1.0.0-4
+Package: com.timedaemon.grindr++
+Version: 1.0.1-32
 Section: Tweaks
 Maintainer: Dan Saba
 Depends: mobilesubstrate
+Conflicts: com.timedaemon.grindrenhancement
 Architecture: iphoneos-arm
-Filename: deb//com.timedaemon.grindrenhancement_1.0.0-4_iphoneos-arm.deb
-Size: 5158
-Installed-Size: 56
-MD5sum: 2e3e2d9c906e949d530c912ff08d2f1e
+Filename: deb//com.timedaemon.grindr++_1.0.1-32_iphoneos-arm.deb
+Size: 7832
+Installed-Size: 60
+MD5sum: 51a1648d1feab3e81e15ee4df1f1bba1
 Description: Currently enhances distance precision and allows saving of profile pictures and sent photos.
-name: Grindr Enhancement
+name: Grindr++
 author: Dan Saba
 
 Package: com.timedaemon.powerinformer
